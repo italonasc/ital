@@ -1,0 +1,7 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/italonasc/ital/main/guide.xml"
+
+#EXTINF:-1 tvg-logo="https://static.black/multishow.png" group-title="Canais | Variedades",Multishow FHD
+http://4p.vc:80/zUqK6fJcCE74/0403070718/18813
+#EXTINF:-1 tvg-logo="https://static.black/multishow.png" group-title="Canais | Variedades",Multishow FHD [H265]
+http://4p.vc:80/zUqK6fJcCE74/0403070718/22182
+
